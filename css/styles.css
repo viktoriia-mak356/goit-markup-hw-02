@@ -32,8 +32,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header-menu-link:hover{
     color:#404bbf;
 }
 .header-menu-link:active{
@@ -113,9 +112,6 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 
-.team-list{
-    background-color: #FFFFFF;
-}
 
 .team-list-subtitle {
 font-weight: 500;
@@ -166,18 +162,13 @@ background-color: #2e2f42;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
+text-transform: uppercase;
 color: #4d5ae5;
 }
 
 .footer-logo-italic{
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #f4f4fd;
 }
 
