@@ -1,5 +1,7 @@
     body{
         font-family: 'Roboto',sans-serif;
+        color: #434455;
+        background: #FFFFFF;
     }
     a{
         text-decoration: none;
@@ -125,6 +127,8 @@ background-color: #2e2f42;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
 color: #f4f4fd;
 }
 
@@ -132,11 +136,15 @@ color: #f4f4fd;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
 color: #4d5ae5;
 }
 
 .footer-text{
 font-weight: 400;
 font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 color: #f4f4fd;
 }
