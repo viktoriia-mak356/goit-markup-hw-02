@@ -32,10 +32,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.header-menu-link:hover{
-    color:#404bbf;
-}
-.header-menu-link:active{
+.header-menu-link:hover,
+.header-menu-link:focus{
     color:#404bbf;
 }
 
@@ -75,15 +73,12 @@ color: #fff;
     background: #4d5ae5;
     cursor: pointer;
 }
-.hero-btn:hover{
-    background: #404bbf;
-}
-
+.hero-btn:hover,
 .hero-btn:focus{
     background: #404bbf;
 }
 
-.hero-strategy-subtitle {
+.strategy-list-subtitle {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -91,7 +86,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.hero-strategy-text {
+.strategy-list-text {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -129,6 +124,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.port{
+    background-color: #FFFFFF;
+}
 .port-title {
 font-weight: 700;
 font-size: 36px;
