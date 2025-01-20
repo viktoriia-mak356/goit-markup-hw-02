@@ -78,6 +78,9 @@ color: #fff;
     background: #404bbf;
 }
 
+.strategy-title{
+    overflow: hidden;
+}
 .strategy-list-subtitle {
 font-weight: 500;
 font-size: 20px;
