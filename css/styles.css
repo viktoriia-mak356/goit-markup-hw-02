@@ -46,8 +46,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address-contacts:hover,
-.header-address-contacts:focus {
+.header-address-contacts:hover {
     color: #404bbf;
 }
 
