@@ -47,7 +47,8 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address-contacts:hover{
+.header-address-contacts:hover,
+.header-address-contacts:focus {
     color: #404bbf;
 }
 
@@ -136,7 +137,6 @@ color: #434455;
 }
 
 .port{
-    background-color: #FFFFFF;
 }
 .port-title {
 font-weight: 700;
